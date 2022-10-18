@@ -1,1 +1,7 @@
-{"extends": ["prettier"]}
+{
+  "extends": ["prettier"], 
+  "parserOptions": {
+    "sourceType": "module",
+    "ecmaVersion": 2018
+  }
+}

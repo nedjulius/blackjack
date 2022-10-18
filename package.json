@@ -12,6 +12,10 @@
   },
   "author": "Julius Nedzinskas",
   "license": "ISC",
+  "engines": {
+    "npm": ">=8.0.0 <9.0.0",
+    "node": ">=16.0.0 <17.0.0"
+  },
   "dependencies": {
     "prompt-sync": "^4.2.0"
   },
