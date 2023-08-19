@@ -1,6 +1,6 @@
 import {FACES, ACE, BLACKJACK_VALUE} from './constants.js';
 
-const createCard = (name, value, identityFn = null) => ({
+const createCard = (name, value) => ({
   name,
   value,
 });
